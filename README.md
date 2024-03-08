@@ -19,7 +19,7 @@ Semantic Kernel: <img alt="Github Stars" src="https://img.shields.io/github/star
 
 LangChain: <img alt="Github Stars" src="https://img.shields.io/github/stars/langchain-ai/langchain?logo=github&style=flat-square&labelColor=343b41"/> [![Downloads](https://static.pepy.tech/badge/langchain)](https://pepy.tech/project/langchain) <img src="https://img.shields.io/github/contributors/langchain-ai/langchain?logo=github&label=contributors" alt="GitHub contributors"/>
 
-## Major Contributor 
+## Major Contributors 
 (based on Github contribution chart)
 
 Semantic Kernel:
