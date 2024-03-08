@@ -19,6 +19,26 @@ Semantic Kernel: <img alt="Github Stars" src="https://img.shields.io/github/star
 
 LangChain: <img alt="Github Stars" src="https://img.shields.io/github/stars/langchain-ai/langchain?logo=github&style=flat-square&labelColor=343b41"/> [![Downloads](https://static.pepy.tech/badge/langchain)](https://pepy.tech/project/langchain) <img src="https://img.shields.io/github/contributors/langchain-ai/langchain?logo=github&label=contributors" alt="GitHub contributors"/>
 
+## Major Contributor 
+(based on Github contribution chart)
+
+Semantic Kernel:
+
+[Devis Lucato](https://www.linkedin.com/in/devislucato/) - Principle Architect@MSFT
+
+[Lee Miller](https://www.linkedin.com/in/lee-miller-838b5621/) - Senior Software Engineer@MSFT
+
+[Adrian Bonar](https://www.linkedin.com/in/adrian-bonar/) - Principle Software Engineer@MSFT
+
+[Mark Wallace](https://www.linkedin.com/in/markewallace/) - Principle Software Engineer@MSFT
+
+[Shawn Callegari](https://www.linkedin.com/in/shawncallegari/) - Principle Software Engineer Lead@MSFT
+
+LangChain: 
+
+[Harrison Chase](https://www.linkedin.com/in/harrison-chase-961287118/) - Cofounder/CEO | ex-Robust Intelligence staff
+
+[Bagatur Askaryan](https://www.linkedin.com/in/bagatur-askaryan/) - Founding Engineer | ex-Robust Intelligence staff
 
 ## Supported languages
 
