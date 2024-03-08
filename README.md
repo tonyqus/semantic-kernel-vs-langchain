@@ -38,7 +38,18 @@ LangChain:
 
 [Harrison Chase](https://www.linkedin.com/in/harrison-chase-961287118/) - Cofounder/CEO | ex-Robust Intelligence staff
 
-[Bagatur Askaryan](https://www.linkedin.com/in/bagatur-askaryan/) - Founding Engineer | ex-Robust Intelligence staff
+[Bagatur Askaryan](https://www.linkedin.com/in/bagatur-askaryan/) - Founding Software Engineer | ex-Robust Intelligence staff
+
+[Erick Friis](https://www.linkedin.com/in/efriis/) - Founding Software Engineer 
+
+[Jacob Lee](https://www.linkedin.com/in/jacoblee93/) - Founding Software Engineer | Langchain.js maintainer
+
+[Davis Chase](https://github.com/dev2049) - langchain.js maintainer
+
+[Nuno Campos](https://www.linkedin.com/in/nuno-f-campos/) - Founding Software Engineer
+
+[Eugene Yurtsev](https://www.linkedin.com/in/eugene-yurtsev-797a3b1b/) 
+
 
 ## Supported languages
 
