@@ -34,6 +34,8 @@ Semantic Kernel:
 
 [Shawn Callegari](https://www.linkedin.com/in/shawncallegari/) - Principle Software Engineer Lead@MSFT
 
+[Alex Chao](https://www.linkedin.com/in/alexchao56/) - Product Lead@MSFT
+
 LangChain: 
 
 [Harrison Chase](https://www.linkedin.com/in/harrison-chase-961287118/) - Cofounder/CEO | ex-Robust Intelligence staff
