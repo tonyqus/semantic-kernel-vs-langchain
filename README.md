@@ -89,3 +89,34 @@ Many LLM applications require user-specific data that is not part of the model's
 | Plan and execute       | ✅                 | ✅ (SequentialPlanner)    |
 | ReAct                  | ✅                 | ✅ (StepwisePlanner)      |
 | Tree of Thoughts (ToT) | ✅                 | ❌                        |
+
+## Supported Vector Stores
+| Vector Database        | LangChain | Semantic Kernel |
+| ---------------------- | ------------------ | ------------------------- |
+|MongoDB|✅|✅|
+|Chroma|✅|✅|
+|Pinecone|✅|✅|
+|DuckDB|❌|✅|
+|Redis|✅|✅|
+|Sqlite|❌|✅|
+|PGVector|✅|✅|
+|Milvus|✅|✅|
+|Kusto (Azure Data Explorer)|❌|✅|
+|Qdrant|✅|✅|
+|Weaviate|✅|✅|
+|Azure AI Search|✅|✅|
+|Cloudflare Vectorize|✅|❌|
+|SAP HANA Cloud Vector Engine|✅|❌|
+|Supabase|✅|❌|
+|Neo4j Vector Index|✅|❌|
+|Cassandra|✅|❌|
+|Couchbase|✅|❌|
+|LanceDB|✅|❌|
+|RocketSet|✅|❌|
+|Voy|✅|❌|
+|Zep|✅|❌|
+
+
+
+
+
