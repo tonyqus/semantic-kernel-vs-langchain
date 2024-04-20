@@ -19,39 +19,44 @@ Semantic Kernel: <img alt="Github Stars" src="https://img.shields.io/github/star
 
 LangChain: <img alt="Github Stars" src="https://img.shields.io/github/stars/langchain-ai/langchain?logo=github&style=flat-square&labelColor=343b41"/> [![pip-downloads](https://static.pepy.tech/badge/langchain)](https://pepy.tech/project/langchain) ![npm](https://img.shields.io/npm/dt/langchain?label=npm-downloads) <img src="https://img.shields.io/github/contributors/langchain-ai/langchain?logo=github&label=contributors" alt="GitHub contributors"/>
 
-## Major Contributors 
-(based on Github contribution chart)
+## Top Contributors 
+(based on Github contribution chart, ordered by additions instead of commits)
 
-Semantic Kernel:
+Semantic Kernel:  [Github contributor insights](https://github.com/microsoft/semantic-kernel/graphs/contributors)
 
-[Devis Lucato](https://www.linkedin.com/in/devislucato/) - Principle Architect@MSFT
+[Devis Lucato](https://github.com/dluc) - Principle Architect@MSFT
 
-[Lee Miller](https://www.linkedin.com/in/lee-miller-838b5621/) - Senior Software Engineer@MSFT
+[Lee Miller](https://github.com/lemillermicrosoft) - Senior Software Engineer@MSFT
 
-[Adrian Bonar](https://www.linkedin.com/in/adrian-bonar/) - Principle Software Engineer@MSFT
+[Adrian Bonar](https://github.com/adrianwyatt) - Principle Software Engineer@MSFT
 
-[Mark Wallace](https://www.linkedin.com/in/markewallace/) - Principle Software Engineer@MSFT
+[Mark Wallace](https://github.com/markwallace-microsoft) - Principle Software Engineer@MSFT
 
-[Shawn Callegari](https://www.linkedin.com/in/shawncallegari/) - Principle Software Engineer Lead@MSFT
+[Shawn Callegari](https://github.com/shawncal) - Principle Software Engineer Lead@MSFT
 
-[Alex Chao](https://www.linkedin.com/in/alexchao56/) - Product Lead@MSFT
+[Roger Barreto](https://github.com/RogerBarreto) - Senior Software Engineer@MSFT
 
-LangChain: 
+[Dmytro Struk](https://github.com/dmytrostruk) - Senior Software Engineer@MSFT
 
-[Harrison Chase](https://www.linkedin.com/in/harrison-chase-961287118/) - Cofounder/CEO | ex-Robust Intelligence staff
+[Abby Harrison](https://github.com/awharrison-28) - Senior Software Engineer@MSFT
 
-[Bagatur Askaryan](https://www.linkedin.com/in/bagatur-askaryan/) - Founding Software Engineer | ex-Robust Intelligence staff
+LangChain: [Github contributor insights](https://github.com/langchain-ai/langchain/graphs/contributors)
 
-[Erick Friis](https://www.linkedin.com/in/efriis/) - Founding Software Engineer 
+[Bagatur Askaryan](https://github.com/baskaryan) - Founding Software Engineer@LangChain
 
-[Jacob Lee](https://www.linkedin.com/in/jacoblee93/) - Founding Software Engineer | Langchain.js maintainer
+[Harrison Chase](https://github.com/hwchase17) - Cofounder/CEO@LangChain
+
+[Erick Friis](https://github.com/efriis) - Founding Software Engineer@LangChain
+
+[Jacob Lee](https://github.com/jacoblee93) - Founding Software Engineer@LangChain | Langchain.js maintainer
 
 [Davis Chase](https://github.com/dev2049) - langchain.js maintainer
 
-[Nuno Campos](https://www.linkedin.com/in/nuno-f-campos/) - Founding Software Engineer
+[Sergerdn](https://github.com/sergerdn)
 
-[Eugene Yurtsev](https://www.linkedin.com/in/eugene-yurtsev-797a3b1b/) 
+[Nuno Campos](https://github.com/nfcampos) - Founding Software Engineer@LangChain
 
+[Lance Martin](https://github.com/rlancemartin) - Software Engineer@LangChain
 
 ## Supported languages
 
