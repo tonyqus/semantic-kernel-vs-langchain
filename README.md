@@ -86,8 +86,8 @@ Many LLM applications require user-specific data that is not part of the model's
 | Type                   | LangChain's Agents | Semantic Kernel's Planner |
 | ---------------------- | ------------------ | ------------------------- |
 | Conversational         | ✅                 | ❌                        |
-| Plan and execute       | ✅                 | ✅ (SequentialPlanner)    |
-| ReAct                  | ✅                 | ✅ (StepwisePlanner)      |
+| Plan and execute       | ✅                 | ✅ (Handlebars Planner)    |
+| ReAct                  | ✅                 | ✅ (Stepwise Planner)      |
 | Tree of Thoughts (ToT) | ✅                 | ❌                        |
 
 ## Supported Vector Stores
