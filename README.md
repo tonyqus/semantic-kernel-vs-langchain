@@ -58,6 +58,7 @@ LangChain: [Github contributor insights](https://github.com/langchain-ai/langcha
 
 [Lance Martin](https://github.com/rlancemartin) - Software Engineer@LangChain
 
+
 ## Supported languages
 
 | Language   | LangChain | Semantic Kernel |
