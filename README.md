@@ -94,7 +94,7 @@ Many LLM applications require user-specific data that is not part of the model's
 ## Supported Vector Stores
 | Vector Database        | LangChain | Semantic Kernel |
 | ---------------------- | ------------------ | ------------------------- |
-|MongoDB|✅|✅|
+|MongoDB Atlas|✅|✅|
 |Chroma|✅|✅|
 |Pinecone|✅|✅|
 |DuckDB|❌|✅|
